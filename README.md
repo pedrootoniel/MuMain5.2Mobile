@@ -1,9 +1,9 @@
-■ Cronograma Estimado – Projeto GXGaming Mobile
-(MuMain 5.2)
-■ Fase 1: Preparação e Estrutura Inicial
-1 Criação do repositório MuMain5.2Mobile: Projeto separado com pastas organizadas no GitHub –
-■ Concluído
-2 Upload da source limpa do cliente e servidor – ■ Concluído
+# ■ Cronograma Estimado – Projeto GXGaming Mobile
+## (MuMain 5.2)
+### ■ Fase 1: Preparação e Estrutura Inicial
+### 1 Criação do repositório MuMain5.2Mobile: Projeto separado com pastas organizadas no GitHub –
+### ■ Concluído
+### 2 Upload da source limpa do cliente e servidor – ■ Concluído
 3 Coleta de recursos (sons, logo, splash, etc) – ■ Concluído
 4 Confirmação dos recursos mobile (controles, gráfico, login, push) – ■ Concluído
 ■ Fase 2: Desenvolvimento do Launcher Mobile
