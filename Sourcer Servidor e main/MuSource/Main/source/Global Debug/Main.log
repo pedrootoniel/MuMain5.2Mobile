@@ -1,0 +1,146 @@
+﻿  PCRoom.cpp
+  CComGem.cpp
+  CDirection.cpp
+  CSChaosCastle.cpp
+  CSEventMatch.cpp
+  CSItemOption.cpp
+  CSMapServer.cpp
+  CSPetSystem.cpp
+  CSQuest.cpp
+  CharMakeWin.cpp
+  CreditWin.cpp
+  GIPetManager.cpp
+  GMBattleCastle.cpp
+  GMCrywolf1st.cpp
+  GMDoppelGanger1.cpp
+  GMHellas.cpp
+  GM_Kanturu_2nd.cpp
+  ItemAddOptioninfo.cpp
+  LoginMainWin.cpp
+  LoginWin.cpp
+  Gerando Código...
+  Compilando...
+  MapManager.cpp
+  MsgWin.cpp
+  NewBloodCastleSystem.cpp
+  NewChaosCastleSystem.cpp
+  NewUIBloodCastleEnter.cpp
+  NewUIBloodCastleTime.cpp
+  NewUICastleWindow.cpp
+  NewUICatapultWindow.cpp
+  NewUIChaosCastleTime.cpp
+  NewUICharacterInfoWindow.cpp
+  NewUIChatInputBox.cpp
+  NewUIChatLogWindow.cpp
+  NewUICommandWindow.cpp
+  NewUICommon.cpp
+  NewUICommonMessageBox.cpp
+  NewUICryWolf.cpp
+  NewUICursedTempleEnter.cpp
+  NewUICursedTempleResult.cpp
+  NewUICursedTempleSystem.cpp
+  NewUICustomMessageBox.cpp
+  Gerando Código...
+  Compilando...
+  NewUIDoppelGangerFrame.cpp
+  NewUIDoppelGangerWindow.cpp
+  NewUIEmpireGuardianNPC.cpp
+  NewUIEmpireGuardianTimer.cpp
+  NewUIEnterDevilSquare.cpp
+  NewUIFriendWindow.cpp
+  NewUIGateSwitchWindow.cpp
+  NewUIGatemanWindow.cpp
+  NewUIGoldBowmanLena.cpp
+  NewUIGoldBowmanWindow.cpp
+  NewUIGuardWindow.cpp
+  NewUIGuildInfoWindow.cpp
+  NewUIGuildMakeWindow.cpp
+  NewUIHelpWindow.cpp
+  NewUIHotKey.cpp
+  NewUIInventoryCtrl.cpp
+  NewUIItemEnduranceInfo.cpp
+  NewUIItemExplanationWindow.cpp
+  NewUIKanturuEvent.cpp
+  NewUIMainFrameWindow.cpp
+  Gerando Código...
+  Compilando...
+  NewUIMiniMap.cpp
+  NewUIMixInventory.cpp
+  NewUIMoveCommandWindow.cpp
+  NewUIMyInventory.cpp
+  NewUIMyQuestInfoWindow.cpp
+  NewUIMyShopInventory.cpp
+C:\Users\JOÃO VITHOR\Documents\GitHub\Project - ZenMu\MuSource\Main\source\NewUIMyShopInventory.cpp(345,29): warning C4805: '==': mistura não segura de tipo 'int' e tipo 'bool' em operação
+  NewUINPCQuest.cpp
+  NewUINPCShop.cpp
+  NewUIOptionWindow.cpp
+  NewUIPartyInfoWindow.cpp
+  NewUIPartyListWindow.cpp
+  NewUIPetInfoWindow.cpp
+  NewUIPurchaseShopInventory.cpp
+  NewUISeigeWarfare.cpp
+  NewUISetItemExplanation.cpp
+  NewUISiegeWarBase.cpp
+  NewUISiegeWarCommander.cpp
+  NewUISiegeWarObserver.cpp
+  NewUISiegeWarSoldier.cpp
+  NewUIStorageInventory.cpp
+  Gerando Código...
+  Compilando...
+  NewUISystem.cpp
+  NewUITextBox.cpp
+  NewUITrade.cpp
+  NewUIUnitedMarketPlaceWindow.cpp
+  OptionWin.cpp
+  PersonalShopTitleImp.cpp
+  ServerSelWin.cpp
+  SummonSystem.cpp
+  SysMenuWin.cpp
+  UIControls.cpp
+  UIGateKeeper.cpp
+  UIGuardsMan.cpp
+  UIGuildInfo.cpp
+  UIGuildMaster.cpp
+  UIJewelHarmony.cpp
+  UIManager.cpp
+  UIPopup.cpp
+  UISenatus.cpp
+  UIWindows.cpp
+  WSclient.cpp
+C:\Users\JOÃO VITHOR\Documents\GitHub\Project - ZenMu\MuSource\Main\source\WSclient.cpp(2629,30): warning C4018: '>=': incompatibilidade de signed/unsigned
+C:\Users\JOÃO VITHOR\Documents\GitHub\Project - ZenMu\MuSource\Main\source\WSclient.cpp(2635,32): warning C4018: '>=': incompatibilidade de signed/unsigned
+  Gerando Código...
+  Compilando...
+  Winmain.cpp
+  ZzzCharacter.cpp
+  ZzzEffect.cpp
+  ZzzInfomation.cpp
+  ZzzInterface.cpp
+C:\Users\JOÃO VITHOR\Documents\GitHub\Project - ZenMu\MuSource\Main\source\ZzzInterface.cpp(1980,31): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\JOÃO VITHOR\Documents\GitHub\Project - ZenMu\MuSource\Main\source\ZzzInterface.cpp(1990,17): warning C4018: '>': incompatibilidade de signed/unsigned
+C:\Users\JOÃO VITHOR\Documents\GitHub\Project - ZenMu\MuSource\Main\source\ZzzInterface.cpp(2012,32): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\JOÃO VITHOR\Documents\GitHub\Project - ZenMu\MuSource\Main\source\ZzzInterface.cpp(2057,31): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\JOÃO VITHOR\Documents\GitHub\Project - ZenMu\MuSource\Main\source\ZzzInterface.cpp(2962,32): warning C4018: '<=': incompatibilidade de signed/unsigned
+C:\Users\JOÃO VITHOR\Documents\GitHub\Project - ZenMu\MuSource\Main\source\ZzzInterface.cpp(2973,18): warning C4018: '>': incompatibilidade de signed/unsigned
+C:\Users\JOÃO VITHOR\Documents\GitHub\Project - ZenMu\MuSource\Main\source\ZzzInterface.cpp(4690,11): warning C4018: '>': incompatibilidade de signed/unsigned
+C:\Users\JOÃO VITHOR\Documents\GitHub\Project - ZenMu\MuSource\Main\source\ZzzInterface.cpp(4701,16): warning C4018: '>': incompatibilidade de signed/unsigned
+C:\Users\JOÃO VITHOR\Documents\GitHub\Project - ZenMu\MuSource\Main\source\ZzzInterface.cpp(5139,13): warning C4018: '>': incompatibilidade de signed/unsigned
+C:\Users\JOÃO VITHOR\Documents\GitHub\Project - ZenMu\MuSource\Main\source\ZzzInterface.cpp(5148,29): warning C4018: '>': incompatibilidade de signed/unsigned
+C:\Users\JOÃO VITHOR\Documents\GitHub\Project - ZenMu\MuSource\Main\source\ZzzInterface.cpp(5693,11): warning C4018: '>': incompatibilidade de signed/unsigned
+C:\Users\JOÃO VITHOR\Documents\GitHub\Project - ZenMu\MuSource\Main\source\ZzzInterface.cpp(5703,16): warning C4018: '>': incompatibilidade de signed/unsigned
+C:\Users\JOÃO VITHOR\Documents\GitHub\Project - ZenMu\MuSource\Main\source\ZzzInterface.cpp(6373,13): warning C4018: '>': incompatibilidade de signed/unsigned
+C:\Users\JOÃO VITHOR\Documents\GitHub\Project - ZenMu\MuSource\Main\source\ZzzInterface.cpp(6382,29): warning C4018: '>': incompatibilidade de signed/unsigned
+  ZzzInventory.cpp
+  ZzzObject.cpp
+  ZzzOpenData.cpp
+  ZzzOpenglUtil.cpp
+  ZzzScene.cpp
+  npcBreeder.cpp
+  npcGateSwitch.cpp
+  w_CursedTemple.cpp
+  w_PetActionCollecter.cpp
+  w_PetActionCollecter_Add.cpp
+  w_PetActionUnicorn.cpp
+  zzzMixInvetory.cpp
+  Gerando Código...
+  Main.vcxproj -> C:\Users\JOÃO VITHOR\Documents\GitHub\Project - ZenMu\MuSource\Main\Global Debug\Main.exe
